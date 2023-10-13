@@ -1,6 +1,6 @@
 # Listas_Dikastis
 
-Listas feitas na disciplina de Introdução a Programação do Bacharelado em Ciência da Computação da UFPE
+Listas feitas na disciplina de IF699 - Introdução a Programação - 2023.1 do Bacharelado em Ciência da Computação da UFPE 
 
 Lista 0 - Treinamento\
 Lista 1 - Comandos condicionais\
